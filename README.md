@@ -33,5 +33,5 @@ python app.py
 - Python
 - LangChain
 - Flask
-- GPT
+- Gemini
 - Pinecone
